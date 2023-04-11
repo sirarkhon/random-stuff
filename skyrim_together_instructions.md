@@ -1,4 +1,5 @@
 **MODS**
+
 Quality of Life Improvements:
 - A Quality World Map: https://www.nexusmods.com/skyrimspecialedition/mods/5804
     - 8.4: classic with all roads
@@ -79,6 +80,7 @@ Dependencies and Patches:
     - ESPFE/ESL-tagged version
 
 **INSTRUCTIONS**
+
 First, wipe your computer of everything Skyrim Special Edition. Remove any mods you may currently have installed,
 uninstall the game from Steam, and delete your saved games folder (probably at \Documents\My Games\Skyrim Special
 Edition).
@@ -98,6 +100,7 @@ installed after all mods associated with the patch. Major patch packages, such a
 Beyond Skyrim, should go last.
 
 **MOD INSTALL OPTIONS**
+
 - Left Hand Rings Modified SE:
     - Models and Textures => Static Mesh Improvement Mod
     - Optional => 1st Person View for Left Hand Rings
@@ -117,12 +120,14 @@ Beyond Skyrim, should go last.
     - Manually Selectable Patches => Static Mesh Improvement Mod
 
 **MOD CONFLICT RESOLUTION**
+
 - Click "Manage Rules" on the header menu on the mods page of Vortex.
 - Click "Use Suggestions" at the bottom of the pop-up box.
 - Click "Use Suggested" again on this warning pop-up box.
 - Click "Save".
 
 **FINAL MOD LOAD ORDER**
+
 Go to the Mods page, click "Open..." => "Open Game Application Data Folder", then open loadorder.txt. You can 
 copy/paste the list from my[loadorder.txt](https://github.com/sirarkhon/random-stuff/blob/main/loadorder.txt) into one 
 text pane on[diffchecker.com](https://www.diffchecker.com/) and your loadorder.txt into the other one and see if they 
@@ -130,4 +135,5 @@ differ without having to go line by line to see what you might need to change. I
 "Plugins" section in Vortex and sort by the load order column to more easily make changes.
 
 **CONNECTING**
+
 Client setup instructions can be found here: https://wiki.tiltedphoques.com/tilted-online/guides/client-setup
