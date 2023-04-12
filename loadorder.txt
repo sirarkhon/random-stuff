@@ -12,9 +12,9 @@ ccvsvsse002-pets.esl
 ccBGSSSE037-Curios.esl
 ccBGSSSE025-AdvDSGS.esm
 Unofficial Skyrim Special Edition Patch.esp
+BSAssets.esm
 LegacyoftheDragonborn.esm
 RealisticWaterTwo - Resources.esm
-BSAssets.esm
 BSHeartland.esm
 BS_DLC_patch.esp
 SkyUI_SE.esp
@@ -25,34 +25,35 @@ DBM_SMIM_Patch.esp
 UnreadBooksGlow.esp
 DBM_UnreadBooksGlow_Patch.esp
 SkyrimTogether.esp
-JKs Skyrim.esp
 20 More Perk Points.esp
+JKs Skyrim.esp
 Helgen Reborn.esp
-Unlimited Training.esp
-Lightweight Potions English 2.0.esp
-LeftHandRings-1stPersonView.esp
-LeftHandRings.esp
 Hothtrooper44_ArmorCompilation.esp
 Run For Your Lives.esp
-Immersive Weapons.esp
-Hothtrooper44_Armor_Ecksstra.esp
-GIST soul trap.esp
-Fluffworks.esp
 Cloaks.esp
 DBM_HelgenReborn_Patch.esp
+Immersive Weapons.esp
 DBM_IW_Patch.esp
 DBM_CloaksofSkyrim_Patch.esp
 DBM_IA_Patch.esp
 DBM_JKSkyrim_Patch.esp
-Ish's Souls to Perks.esp
-Cloaks - USSEP Patch.esp
-BarenziahQuestMarkers.esp
-Ars Metallica.esp
-Cloaks - Dawnguard.esp
+JKs Skyrim_RWT_Patch.esp
 Apocalypse - Magic of Skyrim.esp
+Fluffworks.esp
+LeftHandRings-1stPersonView.esp
+LeftHandRings.esp
+Hothtrooper44_Armor_Ecksstra.esp
+GIST soul trap.esp
+Ars Metallica.esp
+unessentialrolff.esp
+Unlimited Training.esp
+Cloaks - Dawnguard.esp
+Cloaks - USSEP Patch.esp
+Ish's Souls to Perks.esp
+Lightweight Potions English 2.0.esp
+BarenziahQuestMarkers.esp
 AMatterOfTime.esp
 icepenguinworldmapclassic.esp
-unessentialrolff.esp
 Imperious - Races of Skyrim.esp
 AKA_LeftHandRings_Patch.esp
 Ordinator - Perks of Skyrim.esp
